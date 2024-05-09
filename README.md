@@ -1,2 +1,2 @@
 # Ohaku new bot discord.
-happy birthday to you
+happy birthday
